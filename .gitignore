@@ -1,0 +1,8 @@
+.DS_Store
+
+# Binaries and test data
+*.pkl
+*.gz
+*.csv
+*.xslx
+*.pickle
