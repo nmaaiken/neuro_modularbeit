@@ -6,3 +6,6 @@
 *.csv
 *.xslx
 *.pickle
+
+/archive
+/Test
